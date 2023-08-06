@@ -1,0 +1,59 @@
+18:30:04.479 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+18:30:05.549 [main] INFO  api.test.UserTests - **********User is creatged  ***************
+18:30:05.555 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+18:30:05.707 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+18:30:05.709 [main] INFO  api.test.UserTests - ********** Updating User ***************
+18:30:05.861 [main] INFO  api.test.UserTests - ********** User updated ***************
+18:30:06.003 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+18:30:06.144 [main] INFO  api.test.UserTests - ********** User deleted ***************
+18:40:48.964 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+18:40:50.108 [main] INFO  api.test.UserTests - **********User is creatged  ***************
+18:40:50.115 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+18:40:50.269 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+18:40:50.271 [main] INFO  api.test.UserTests - ********** Updating User ***************
+18:40:50.416 [main] INFO  api.test.UserTests - ********** User updated ***************
+18:40:50.559 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+18:40:50.697 [main] INFO  api.test.UserTests - ********** User deleted ***************
+18:40:50.723 [main] DEBUG api.test.UserTestsFromProperties - debugging.....
+18:40:50.724 [main] INFO  api.test.UserTestsFromProperties - ********** Creating user  ***************
+18:40:50.865 [main] INFO  api.test.UserTestsFromProperties - **********User is creatged  ***************
+18:40:50.867 [main] INFO  api.test.UserTestsFromProperties - ********** Reading User Info ***************
+18:40:51.004 [main] INFO  api.test.UserTestsFromProperties - **********User info  is displayed ***************
+18:40:51.006 [main] INFO  api.test.UserTestsFromProperties - ********** Updating User ***************
+18:40:51.148 [main] INFO  api.test.UserTestsFromProperties - ********** User updated ***************
+18:40:51.287 [main] INFO  api.test.UserTestsFromProperties - **********   Deleting User  ***************
+18:40:51.421 [main] INFO  api.test.UserTestsFromProperties - ********** User deleted ***************
+18:44:35.626 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+18:44:36.646 [main] INFO  api.test.UserTests - **********User is creatged  ***************
+18:44:36.652 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+18:44:36.809 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+18:44:36.810 [main] INFO  api.test.UserTests - ********** Updating User ***************
+18:44:36.948 [main] INFO  api.test.UserTests - ********** User updated ***************
+18:44:37.082 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+18:44:37.215 [main] INFO  api.test.UserTests - ********** User deleted ***************
+18:44:37.239 [main] DEBUG api.test.UserTestsFromProperties - debugging.....
+18:44:37.240 [main] INFO  api.test.UserTestsFromProperties - ********** Creating user  ***************
+18:44:37.380 [main] INFO  api.test.UserTestsFromProperties - **********User is creatged  ***************
+18:44:37.381 [main] INFO  api.test.UserTestsFromProperties - ********** Reading User Info ***************
+18:44:37.514 [main] INFO  api.test.UserTestsFromProperties - **********User info  is displayed ***************
+18:44:37.515 [main] INFO  api.test.UserTestsFromProperties - ********** Updating User ***************
+18:44:37.652 [main] INFO  api.test.UserTestsFromProperties - ********** User updated ***************
+18:44:37.781 [main] INFO  api.test.UserTestsFromProperties - **********   Deleting User  ***************
+18:44:37.940 [main] INFO  api.test.UserTestsFromProperties - ********** User deleted ***************
+18:48:23.798 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+18:48:25.041 [main] INFO  api.test.UserTests - **********User is creatged  ***************
+18:48:25.047 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+18:48:25.222 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+18:48:25.224 [main] INFO  api.test.UserTests - ********** Updating User ***************
+18:48:25.360 [main] INFO  api.test.UserTests - ********** User updated ***************
+18:48:25.497 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+18:48:25.636 [main] INFO  api.test.UserTests - ********** User deleted ***************
+18:48:25.669 [main] DEBUG api.test.UserTestsFromProperties - debugging.....
+18:48:25.670 [main] INFO  api.test.UserTestsFromProperties - ********** Creating user  ***************
+18:48:25.815 [main] INFO  api.test.UserTestsFromProperties - **********User is creatged  ***************
+18:48:25.816 [main] INFO  api.test.UserTestsFromProperties - ********** Reading User Info ***************
+18:48:25.946 [main] INFO  api.test.UserTestsFromProperties - **********User info  is displayed ***************
+18:48:25.947 [main] INFO  api.test.UserTestsFromProperties - ********** Updating User ***************
+18:48:26.086 [main] INFO  api.test.UserTestsFromProperties - ********** User updated ***************
+18:48:26.226 [main] INFO  api.test.UserTestsFromProperties - **********   Deleting User  ***************
+18:48:26.374 [main] INFO  api.test.UserTestsFromProperties - ********** User deleted ***************
